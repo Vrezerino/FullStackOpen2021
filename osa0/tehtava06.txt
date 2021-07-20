@@ -1,0 +1,13 @@
+title spa POST
+
+note left of  selain:
+lähettää uuden muistiinpanon
+end note
+
+selain->palvelin: https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+palvelin-->selain: juuri lähetetty muistiinpano JSON-muodossa
+
+note over selain:
+selain suorittaa tapahtumankäsittelijän
+joka renderöi muistiinpanolistan näytölle
+end note

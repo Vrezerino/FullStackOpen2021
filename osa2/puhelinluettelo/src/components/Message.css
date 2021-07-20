@@ -1,0 +1,11 @@
+.green {
+  font-size: x-large;
+  color: green;
+  border: 2, green;
+}
+
+.red {
+  font-size: x-large;
+  color: red;
+  border: 2, red;
+}

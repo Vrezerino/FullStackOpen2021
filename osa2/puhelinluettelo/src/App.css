@@ -1,0 +1,16 @@
+body {
+  background-color: blanchedalmond;
+}
+
+h1 {
+  color: red;
+}
+
+img {
+  vertical-align: middle;
+}
+
+span {
+  display: inline;
+  white-space: nowrap;
+}
