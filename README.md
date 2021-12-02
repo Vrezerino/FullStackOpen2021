@@ -1,3 +1,3 @@
-# FullStackOpen2021
-Full Stack Open 2021 kurssin tehtävien vastauksia.
-Luonnollisesti: älä kopioi vastauksia!
+# FullStackOpen2021 parts 0, 1 and 2 answers
+
+Naturally, do not copy these answers.
